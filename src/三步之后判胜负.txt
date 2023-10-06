@@ -1,0 +1,273 @@
+21 31 00 17 
+20 27 25 09 
+30 08 04 07 
+01 10 06 24 
+22 16 13 23 
+29 14 11 05 
+15 03 26 18 
+28 12 02 19 
+
+331
+430
+421
+320
+231
+220
+121
+130
+031
+020
+011
+03020
+311
+210
+111
+100
+201
+300
+401
+410
+511
+500
+21011
+520
+531
+630
+621
+610
+601
+700
+711
+720
+731
+51500
+40501
+61310
+42411
+31010
+001
+43420
+53431
+52620
+72731
+63530
+13031
+01110
+40431
+62520
+43231
+11010
+23211
+52510
+12111
+41420
+21511
+Click load
+Click load
+Click load
+click restart
+repaint chess [2,2]
+repaint chess [0,0]
+repaint chess [0,2]
+repaint chess [1,2]
+repaint chess [2,1]
+repaint chess [0,1]
+repaint chess [2,0]
+repaint chess [5,1]
+repaint chess [5,0]
+repaint chess [2,3]
+repaint chess [6,1]
+repaint chess [6,3]
+repaint chess [4,2]
+repaint chess [3,3]
+repaint chess [1,0]
+repaint chess [6,2]
+repaint chess [3,0]
+repaint chess [0,3]
+repaint chess [1,1]
+repaint chess [5,2]
+repaint chess [4,3]
+repaint chess [3,1]
+repaint chess [4,1]
+repaint chess [6,0]
+repaint chess [7,0]
+repaint chess [7,2]
+repaint chess [3,2]
+repaint chess [7,3]
+repaint chess [7,1]
+repaint chess [4,0]
+repaint chess [5,3]
+repaint chess [1,3]
+Click load
+onClick to reverse a chess [3,3]
+onClick to reverse a chess [4,3]
+onClick to reverse a chess [4,2]
+onClick to reverse a chess [3,2]
+onClick to reverse a chess [2,3]
+onClick to reverse a chess [2,2]
+onClick to reverse a chess [1,2]
+onClick to reverse a chess [1,3]
+onClick to reverse a chess [0,3]
+onClick to reverse a chess [0,2]
+onClick to reverse a chess [0,1]
+onClick to reverse a chess [3,1]
+onClick to reverse a chess [2,1]
+onClick to reverse a chess [1,1]
+onClick to reverse a chess [1,0]
+onClick to reverse a chess [2,0]
+onClick to reverse a chess [3,0]
+onClick to reverse a chess [4,0]
+onClick to reverse a chess [4,1]
+onClick to reverse a chess [5,1]
+onClick to reverse a chess [5,0]
+onClick to reverse a chess [5,2]
+onClick to reverse a chess [5,3]
+onClick to reverse a chess [6,3]
+onClick to reverse a chess [6,2]
+onClick to reverse a chess [6,1]
+onClick to reverse a chess [6,0]
+onClick to reverse a chess [7,0]
+onClick to reverse a chess [7,1]
+onClick to reverse a chess [7,2]
+onClick to reverse a chess [7,3]
+onClick to reverse a chess [0,0]
+repaint chess [2,1]
+repaint chess [4,1]
+repaint chess [1,2]
+repaint chess [5,2]
+repaint chess [2,3]
+repaint chess [6,2]
+repaint chess [1,3]
+repaint chess [6,3]
+repaint chess [7,2]
+repaint chess [4,3]
+repaint chess [4,0]
+repaint chess [7,3]
+repaint chess [7,1]
+repaint chess [7,0]
+repaint chess [5,3]
+repaint chess [6,1]
+repaint chess [6,0]
+repaint chess [4,2]
+repaint chess [5,0]
+repaint chess [3,3]
+repaint chess [3,2]
+repaint chess [3,1]
+repaint chess [3,0]
+repaint chess [5,1]
+repaint chess [2,2]
+repaint chess [2,0]
+repaint chess [0,3]
+repaint chess [1,1]
+repaint chess [1,0]
+repaint chess [0,2]
+repaint chess [0,1]
+repaint chess [0,0]
+Click [1,3]
+Click [2,3]
+Click [2,2]
+Click [1,2]
+Click [1,2]
+Click [1,3]
+Click [1,3]
+Click [1,2]
+Click [1,2]
+Click [1,3]
+Click [1,3]
+Click [2,3]
+Click [2,3]
+Click [2,3]
+Click [1,3]
+Click [1,3]
+Click [1,2]
+Click [2,1]
+Click [2,1]
+Click [1,1]
+Click [0,2]
+repaint chess [0,2]
+Click [0,2]
+repaint chess [0,2]
+Click [1,2]
+Click [0,3]
+Click [0,1]
+repaint chess [0,1]
+Click [0,1]
+repaint chess [0,1]
+Click [0,2]
+repaint chess [0,2]
+Click [1,3]
+Click [1,3]
+Click [2,3]
+Click [4,0]
+Click [4,0]
+Click [2,2]
+Click [2,2]
+Click [1,2]
+repaint chess [0,2]
+repaint chess [1,2]
+Click [0,2]
+Click [0,3]
+repaint chess [0,3]
+Click [1,3]
+repaint chess [0,3]
+repaint chess [1,3]
+Click [3,2]
+repaint chess [3,2]
+Click [3,2]
+repaint chess [3,2]
+Click [2,2]
+Click [3,2]
+repaint chess [3,2]
+Click [3,0]
+repaint chess [3,2]
+repaint chess [3,0]
+repaint chess [3,1]
+Click [2,2]
+repaint chess [2,2]
+Click [2,2]
+repaint chess [2,2]
+Click [5,1]
+Click [3,0]
+Click [6,0]
+repaint chess [6,0]
+Click [7,0]
+repaint chess [6,0]
+repaint chess [7,0]
+Click [5,1]
+repaint chess [5,1]
+Click [7,1]
+repaint chess [5,1]
+repaint chess [6,1]
+repaint chess [7,1]
+repaint chess [1,2]
+repaint chess [4,0]
+repaint chess [0,2]
+repaint chess [5,1]
+repaint chess [5,0]
+repaint chess [2,0]
+repaint chess [6,3]
+repaint chess [6,0]
+repaint chess [6,2]
+repaint chess [7,0]
+repaint chess [3,3]
+repaint chess [5,3]
+repaint chess [1,1]
+repaint chess [4,3]
+repaint chess [7,2]
+repaint chess [2,1]
+repaint chess [3,2]
+repaint chess [0,0]
+repaint chess [7,1]
+repaint chess [7,3]
+repaint chess [4,1]
+repaint chess [2,2]
+repaint chess [6,1]
+repaint chess [0,1]
+repaint chess [0,3]
+repaint chess [2,3]
+repaint chess [3,1]
+repaint chess [4,2]
+repaint chess [1,0]
+repaint chess [5,2]
+repaint chess [1,3]
+repaint chess [3,0]

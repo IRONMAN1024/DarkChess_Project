@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DarkChess:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76c1affc-db95-41de-8122-b378d5ea19d8" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HcPqLelfNeMrhihj9iOUdGVJko" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/yihan/Desktop/DarkChess",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="\n" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DarkChess" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="76c1affc-db95-41de-8122-b378d5ea19d8" name="变更" comment="" />
+      <created>1668581587405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668581587405</updated>
+      <workItem from="1668581588577" duration="4226000" />
+      <workItem from="1668653689660" duration="832000" />
+      <workItem from="1668754854029" duration="892000" />
+      <workItem from="1669201679403" duration="4231000" />
+      <workItem from="1669337567178" duration="8000" />
+      <workItem from="1669551228118" duration="1085000" />
+      <workItem from="1669632065393" duration="4949000" />
+      <workItem from="1669689183914" duration="3755000" />
+      <workItem from="1669702066799" duration="10278000" />
+      <workItem from="1669793058659" duration="13246000" />
+      <workItem from="1669907590296" duration="6928000" />
+      <workItem from="1670031854728" duration="39257000" />
+      <workItem from="1670196844838" duration="15891000" />
+      <workItem from="1670240159083" duration="6837000" />
+      <workItem from="1670288076243" duration="7420000" />
+      <workItem from="1670299083942" duration="7550000" />
+      <workItem from="1670337311054" duration="2580000" />
+      <workItem from="1670392803763" duration="2646000" />
+      <workItem from="1670401932397" duration="297000" />
+      <workItem from="1670890519539" duration="2415000" />
+      <workItem from="1670924022994" duration="1125000" />
+      <workItem from="1670927087906" duration="30044000" />
+      <workItem from="1671262612964" duration="10279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/view/Chessboard.java</url>
+          <line>554</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

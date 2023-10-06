@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DarkChess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DarkChess_jar</output-path>
+    <root id="archive" name="DarkChess.jar">
+      <element id="module-output" name="DarkChess" />
+    </root>
+  </artifact>
+</component>

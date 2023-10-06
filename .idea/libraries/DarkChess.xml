@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DarkChess">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DarkChess/out/artifacts/DarkChess_jar/DarkChess.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
